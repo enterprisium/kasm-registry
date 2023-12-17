@@ -2,8 +2,8 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Enterprisium',
+    description: 'The Best Is Yet To Be.',
     icon: 'https://enterprisium.github.com/kasm-registry/blob/1.0/site/public/emoji.png',
     listUrl: 'https://enterprisium.github.io/kasm-registry/',
     contactUrl: 'https://github.com/enterprisium/kasm-registry/issues',
